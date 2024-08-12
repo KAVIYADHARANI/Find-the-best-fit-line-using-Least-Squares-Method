@@ -19,6 +19,14 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 
 
+
+
+
+
+
+
+
+
 ## Program:
 ```
 
